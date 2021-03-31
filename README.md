@@ -7,6 +7,7 @@ In this project we used a credit card credit dataset from LendingClub, a peer-to
 ## Results ##
 
 * **Naive Random OverSampling**
+In the Naive Random Oversampling the balanced accuracy score is ~0.64 which means there is some good precitive value in this model, however, tt is not stellar  and therefore for suitabel for data or a project that requires percise models. The precision score is XX and the recall score is XX
 
 ![](https://github.com/AsaHolley/Credit_Risk_Analysis/blob/main/pictures/Naive%20Random%20Oversampling.png)
 
@@ -29,3 +30,6 @@ In this project we used a credit card credit dataset from LendingClub, a peer-to
 * **Easy Ensemble AdaBoost Classifier**
 
 ![](https://github.com/AsaHolley/Credit_Risk_Analysis/blob/main/pictures/Easy%20Ensemble%20AdaBoost%20Classifier.png)
+
+
+## Summary ##
