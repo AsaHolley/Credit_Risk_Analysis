@@ -8,12 +8,24 @@ In this project we used a credit card credit dataset from LendingClub, a peer-to
 
 * **Naive Random OverSampling**
 
+![](https://github.com/AsaHolley/Credit_Risk_Analysis/blob/main/pictures/Naive%20Random%20Oversampling.png)
+
 * **SMOTE Oversampling**
 
+![](https://github.com/AsaHolley/Credit_Risk_Analysis/blob/main/pictures/SMOTE%20Oversampling.png)
+
 * **Cluster Centroids**
- 
+
+![](https://github.com/AsaHolley/Credit_Risk_Analysis/blob/main/pictures/ClusterCentroids.png)
+
 * **SMOTEENN** 
+
+![](https://github.com/AsaHolley/Credit_Risk_Analysis/blob/main/pictures/SMOTEENN.png)
 
 * **Balanced Random Forest Classifer**
 
+![](https://github.com/AsaHolley/Credit_Risk_Analysis/blob/main/pictures/Balanced%20Random%20Forest%20Classifier.png)
+
 * **Easy Ensemble AdaBoost Classifier**
+
+![](https://github.com/AsaHolley/Credit_Risk_Analysis/blob/main/pictures/Easy%20Ensemble%20AdaBoost%20Classifier.png)
