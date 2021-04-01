@@ -17,7 +17,7 @@ In the SMOTE Oversampling model the balanced accurary score is ~0.65, which is r
 ![](https://github.com/AsaHolley/Credit_Risk_Analysis/blob/main/pictures/SMOTE%20Oversampling.png)
 
 * **Cluster Centroids:**
-In the Cluster Centroids model the balanced accurary score is lower than the previous two models coming in at ~0.54 which does not have good predictive power, its only slightly better than random. The precision score of ~0.01 for the high-risk credit profiles is in line with what is described for the first two models. 
+In the Cluster Centroids model the balanced accurary score is lower than the previous two models coming in at ~0.54 which does not have good predictive power, its only slightly better than random. The precision score of ~0.01 for the high-risk credit profiles is in line with what is described for the first two models. The recall score on average, for both credit profile types, is better at ~0.4 meaning the model does not predictive capability.
 
 ![](https://github.com/AsaHolley/Credit_Risk_Analysis/blob/main/pictures/ClusterCentroids.png)
 
