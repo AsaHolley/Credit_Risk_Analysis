@@ -17,19 +17,22 @@ In the SMOTE Oversampling model the balanced accurary score is ~0.65, which is r
 ![](https://github.com/AsaHolley/Credit_Risk_Analysis/blob/main/pictures/SMOTE%20Oversampling.png)
 
 * **Cluster Centroids:**
-In the Cluster Centroids model the balanced accurary score is lower than the previous two models coming in at ~0.54 which does not have good predictive power, its only slightly better than random. The precision score of ~0.01 for the high-risk credit profiles is in line with what is described for the first two models. The recall score on average, for both credit profile types, is better at ~0.4 meaning the model does not predictive capability.
+In the Cluster Centroids model the balanced accurary score is lower than the previous two models coming in at ~0.54 which does not have good predictive power, its only slightly better than random. The precision score of ~0.01 for the high-risk credit profiles is in line with what is described for the first two models. The recall score on average, for both credit profile types,came in at ~0.4 meaning the model does not good predictive capability.
 
 ![](https://github.com/AsaHolley/Credit_Risk_Analysis/blob/main/pictures/ClusterCentroids.png)
 
 * **SMOTEENN:** 
+In this combination of over and under-sampling model, the balanced accuracy score came in at ~0.65 which was about equal with the SMOTE model. The preceision was very low for the high risk credit profiles similar to the above 3 models at 0.01. The recall score was 0.56, which means the model does not have a high rate of predictive capibility. 
 
 ![](https://github.com/AsaHolley/Credit_Risk_Analysis/blob/main/pictures/SMOTEENN.png)
 
 * **Balanced Random Forest Classifer:**
+In the Balanced Random Forest Classifer model, the balanced accuracy score is ~0.77, which is better than the previous 4 models tested and means there is a far amount of predictive pwoer in the model. Furthermore, the precision for the high-risk credit profiles is 0.04, which while not good is still better than the previously tested models. The recall is impressive with an average recall of ~0.90 indicating this is good model for prediciting credit risk.
 
 ![](https://github.com/AsaHolley/Credit_Risk_Analysis/blob/main/pictures/Balanced%20Random%20Forest%20Classifier.png)
 
 * **Easy Ensemble AdaBoost Classifier:**
+In this model the balanced accuracy score was 
 
 ![](https://github.com/AsaHolley/Credit_Risk_Analysis/blob/main/pictures/Easy%20Ensemble%20AdaBoost%20Classifier.png)
 
